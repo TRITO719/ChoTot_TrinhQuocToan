@@ -1,0 +1,29 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Lẩu gà",
+      "price": 500,
+      "image": "../img/lauga.png"
+    },
+    {
+      "id": 2,
+      "name": "Highlands",
+      "price": 500,
+      "image": "../img/highland.png"
+    },
+    {
+      "id": 3,
+      "name": "Khuyến mãi KFC",
+      "price": 500,
+      "image": "../img/kfc.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mời bạn-Vé Cinema",
+      "price": 500,
+      "image": "../img/galaxy-cinema.jpg"
+    }
+    
+  ]
+}
